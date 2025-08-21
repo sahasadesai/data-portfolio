@@ -32,5 +32,4 @@ This repository highlights my projects in **SQL, Python, and Tableau**, showing 
 ---
 
 ## 📬 Contact
-- [LinkedIn](https://linkedin.com/in/your-link)  
-- Email: your@email.com
+- Email: sahasamudrakola@gmail.com
